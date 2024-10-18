@@ -1,6 +1,6 @@
 # Website
 
-- my-website/
+- mywebsite/
   - index.html
   - styles.css
   - app.js
