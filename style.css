@@ -1,7 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #ff0000;
+    background-color: #ddfa3c;
+  }
+
+  h1
+  {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #8400ff;
   }
 
 
